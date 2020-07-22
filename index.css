@@ -820,7 +820,9 @@ background-color:gainsboro ;
         border-radius: 50px;
     }
     .dd{
-        margin: auto;
+        display: flex;
+        justify-content: center;
+        align-items: center;
     }
     .pro{
         display: flex;
