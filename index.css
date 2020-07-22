@@ -599,7 +599,7 @@ body{
     .container{
         flex-direction: column;
         margin-top: 60px;
-        position: relative;
+        
     }
     .cont-1{
         padding: 0;
