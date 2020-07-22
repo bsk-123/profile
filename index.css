@@ -7,7 +7,6 @@ body{
 .container{
     height: 100%;
     display: flex;
-    margin-top: 60px;
 }
 .cont-1{
     width: 20%;
@@ -507,15 +506,12 @@ body{
 .mobile-header{
     display: none;
     background-color: #0073b1;
-    position: fixed;
-    top: 0;
-    left: 0;
     width: 100%;
     padding: 0.25em 0em;
     justify-content: space-between;
     align-items: center;
     transition: all 0.3s;
-    z-index: 1;
+    
 }
 .mobile-header .input-wrap{
     flex: 1;
